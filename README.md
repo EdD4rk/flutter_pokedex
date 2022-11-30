@@ -1,5 +1,8 @@
 # flutter_pokedex
 Proyecto de practica que nos permite comprender y aprender el maquetado de un pokedex, crear sus datos y poder visualizarlos.
+El objetivo de esta practica ademas de ayudarnos a comprender mas el maquetado de aplicaciones, nos premite trabajar
+con una base de datos para cada pokemon, añadirle imagenes e una descripcion a cada pokemon, creando asi una base de datos e
+poder interpretar mejor cada trabajo a futuro que se nos entrege. 
 
 ![image](https://user-images.githubusercontent.com/94126964/204705682-c07bf9b0-442d-4892-a9e3-71164466593d.png)
 
